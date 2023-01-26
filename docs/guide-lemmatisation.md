@@ -22,6 +22,7 @@ nav_order: 3
 ---
 
 Contributeurs:
+{: .lh-tight}
 - Eliana Magnani
 - Nicolas Perreaux
 - Ariane Pinche
