@@ -22,7 +22,7 @@ Le groupe de travail « Lemmes » s’est donné pour objectif initial l’aide
 
 ## Atelier 1 (07.11.2017)
 
-<div style="margin-top: 34px;">télécharger le compte-rendu de cet atelier</div>
+<div style="margin-top: 3px;">télécharger le compte-rendu de cet atelier</div>
 {: .fs-4 .fw-300 }
 
 [Compte-rendu Atelier 1](/assets/doc/Atelier-1-[07.11.2017].zip){: .btn .btn-green .fw-300 .text-grey-lt-000 .float-right .mr-2 }
