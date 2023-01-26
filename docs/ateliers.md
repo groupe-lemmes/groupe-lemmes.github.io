@@ -21,7 +21,7 @@ nav_order: 2
 Le groupe de travail « Lemmes » s’est donné pour objectif initial l’aide au développement des outils de lemmatisation des langues médiévales (latin, français, anglais...) et l’incitation à la diffusion des corpus textuels lemmatisés. En effet, encore très peu connue et pratiquée par la communauté des historiens médiévistes, cette opération fondamentale à toute approche des grands corpus est pourtant indispensable dans le cas des langues médiévales très flexionnées et à très grande variation orthographique. Dans ce cadre, quatre ateliers « d’initiation à la lemmatisation des textes médiévaux » ont eu lieu entre 2017 et 2019.
 
 ## Atelier 1 (07.11.2017)
-{: .mb-1 }
+{: .mb-3 }
 
 Un premier atelier de travail a été organisé en novembre 2017. Il visait à faire le bilan en commun des outils existants, des points d’achoppement des applications et des orientations et actions qui seront développées par le groupe. Il a réuni une vingtaine de participants, chercheurs et doctorants, historiens, linguistes et programmeurs.
 
@@ -34,7 +34,7 @@ L’autre question soulevée est l’absence d’évaluation systématique et
 ---
 
 ## Atelier 2 (05.06.2018)
-{: .mb-2 }
+{: .mb-3 }
 
 L’atelier 2 s’est articulé en trois moments, d’abord la présentation de deux recherches récentes sur les entités nommées : « Approche multi-niveaux pour la reconnaissance des entités nommées en Moyen Français », par Mourad Aouini (CNRS - CLT), et « La récupération automatique des entités nommées dans les chartes médiolatines. Modélisation et perspectives d'utilisation », par Sergio Torres (UVSQ - DYPAC). Effectivement, l’une des principales difficultés de lemmatisation des sources médiévales se trouve dans la reconnaissance des noms de personne et de lieux, les recherches sur les entités nommées ouvrant une série de perspectives à leur traitement particulier.
 
@@ -54,7 +54,7 @@ L’atelier 3 a visé à continuer à développer les actions énumérées
 ---
 
 ## Atelier 4 (17.06.2019)
-{: .mb-4 }
+{: .mb-3 }
 
 Lors de l’atelier 4, en plus d’une introduction historiographique et théorique, la découverte de quelques outils-clé à partir d’exercices pratiques a été proposée aux participants. Prévu initialement pour 15, l’atelier a fini par en accueillir 21 participants, étant donné l’intérêt suscité par cette formation. L’équipe de formateurs comptait 8 intervenants et a mis à la disposition des participants tout le matériel pédagogique utilisé (guides d’utilisation, corpus prétraités, exempliers, diaporamas, etc.). Les profils très divers des inscrits, – des étudiants de master aux enseignants-chercheurs et chercheurs confirmés, en passant par des doctorants, post-doctorants et ingénieurs – montrent que les besoins en la matière concernent un public qui ne se limite pas aux seuls médiévistes « universitaires », historiens et linguistes, mais aussi aux responsables commerciaux des plateformes d’édition numérique qui peuvent avoir affaire à des textes médiévaux. Pour la suite des actions du groupe, la lemmatisation est envisagée comme partie intégrante des formations organisées par COSME², qui insèrent ainsi cette opération fondamentale dans un processus plus large qui va de la constitution d’un corpus jusqu’à son exploitation statistique.
 
