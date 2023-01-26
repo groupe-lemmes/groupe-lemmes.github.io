@@ -47,6 +47,7 @@ À moyen terme, l’une des visées des producteurs de corpus numérisés de
 [![CESCM (UMR 7302), Université de Poitiers](/assets/images/logos-partners/CESCM.jpeg){:width="70px"}](https://cescm.labo.univ-poitiers.fr){:target="_blank"}{: .p-4 }
 [![IRHT](/assets/images/logos-partners/IRHT.svg){:width="70px"}](https://www.irht.cnrs.fr/){:target="_blank"}{: .p-4 }
 [![École nationale des chartes (CJM, EA 3624)](/assets/images/logos-partners/ENC.jpg){:width="70px"}](http://www.chartes.psl.eu){:target="_blank"}{: .p-4 }
+[![Lexicon Mediae et Infimae Latinitatis Polonorum (Académie des sciences de Pologne)](/assets/images/logos-partners/pan.svg){:width="70px"}](https://pan.pl/){:target="_blank"}{: .p-4 }
 [![Goethe-Universität](/assets/images/logos-partners/frankfurt.svg){:width="70px"}](https://www.goethe-university-frankfurt.de){:target="_blank"}{: .p-4 }
 [![LASLA - LASLA (Université de Liège) (ULiège)](/assets/images/logos-partners/lasla-uliege.png){:width="70px"}](https://www.lasla.uliege.be/cms/c_8508894/fr/lasla){:target="_blank"}{: .p-4 }
-[![Lexicon Mediae et Infimae Latinitatis Polonorum (Académie des sciences de Pologne)](/assets/images/logos-partners/pan.svg){:width="70px"}](https://pan.pl/){:target="_blank"}{: .p-4 }
+
