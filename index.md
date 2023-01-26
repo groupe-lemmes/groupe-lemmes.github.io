@@ -38,14 +38,14 @@ À moyen terme, l’une des visées des producteurs de corpus numérisés de
 
 - Eliana Magnani, « Les nouveaux corpus CBMA : hagiographie, épigraphie, alia. Bilan et perspectives (2017-2020) », _Bulletin du centre d’études médiévales d’Auxerre, BUCEMA_, Collection CBMA, Les journées d'études, mis en ligne le 20 mai 2020, consulté le 20 mai 2020. [DOI: 10.4000/cem.17087](https://doi.org/10.4000/cem.17087){:target="_blank"}. [HAL Id: halshs-02698177](https://halshs.archives-ouvertes.fr/halshs-02698177){:target="_blank"}
 
-- Aurore Menudier, « Le corpus épigraphique provençal : premier bilan et comparaison avec le corpus bourguignon », _Bulletin du centre d’études médiévales d’Auxerre | BUCEMA_, Collection CBMA, mis en ligne le 19 mai 2020, consulté le 25 janvier 2023. [DOI: 10.4000/cem.17076](https://doi.org/10.4000/cem.17076){:target="_blank"}. 
+- Aurore Menudier, « Le corpus épigraphique provençal : premier bilan et comparaison avec le corpus bourguignon », _Bulletin du centre d’études médiévales d’Auxerre, BUCEMA_, Collection CBMA, mis en ligne le 19 mai 2020, consulté le 25 janvier 2023. [DOI: 10.4000/cem.17076](https://doi.org/10.4000/cem.17076){:target="_blank"}. 
 
 ### Équipes associées
 {: .pb-4 .fs-4 .fw-500 }
 
 [![LAMOP (UMR8589), Université de Paris 1](/assets/images/logos-partners/LAMOP.jpg){:width="70px"}](https://lamop.pantheonsorbonne.fr/laboratoire-medievistique-occidentale-paris){:target="_blank"}{: .p-4 }
 [![CESCM (UMR 7302), Université de Poitiers](/assets/images/logos-partners/CESCM.jpeg){:width="70px"}](https://cescm.labo.univ-poitiers.fr){:target="_blank"}{: .p-4 }
-[![IRHT](/assets/images/logos-partners/irht.svg){:width="70px"}](https://www.irht.cnrs.fr/){:target="_blank"}{: .p-4 }
+[![IRHT](/assets/images/logos-partners/IRHT.svg){:width="70px"}](https://www.irht.cnrs.fr/){:target="_blank"}{: .p-4 }
 [![École nationale des chartes (CJM, EA 3624)](/assets/images/logos-partners/ENC.jpg){:width="70px"}](http://www.chartes.psl.eu){:target="_blank"}{: .p-4 }
 [![Goethe-Universität](/assets/images/logos-partners/frankfurt.svg){:width="70px"}](https://www.goethe-university-frankfurt.de){:target="_blank"}{: .p-4 }
 [![LASLA - LASLA (Université de Liège) (ULiège)](/assets/images/logos-partners/lasla-uliege.png){:width="70px"}](https://www.lasla.uliege.be/cms/c_8508894/fr/lasla){:target="_blank"}{: .p-4 }
