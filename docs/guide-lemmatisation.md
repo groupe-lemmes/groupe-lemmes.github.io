@@ -25,7 +25,7 @@ Contributeurs:
 - Eliana Magnani
 - Nicolas Perreaux
 - Ariane Pinche
-{: .fs-5 .fw-400 .lh-0}
+{: .fs-5 .fw-400}
 
 ## Qu’est-ce la lemmatisation?
 
