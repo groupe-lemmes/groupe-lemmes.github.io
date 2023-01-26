@@ -27,7 +27,7 @@ Le groupe de travail « Lemmes » s’est donné pour objectif initial l’aide
 
 [Compte-rendu Atelier 1](/assets/doc/Atelier-1-[07.11.2017].zip){: .btn .btn-green .fw-300 .text-grey-lt-000 .float-right .mr-2 .d-inline-block }
 
-[Télécharger le compte-rendu de l'Atelier 1](/assets/doc/Atelier-1-[07.11.2017].zip){: .btn .btn-green .fw-300 .text-grey-lt-000  .d-inline-block .float-right .mb-3 }
+[Télécharger le compte-rendu de l'Atelier 1](/assets/doc/Atelier-1-[07.11.2017].zip){: .btn .btn-green .fw-300 .text-grey-lt-000  .d-inline-block .float-left .mb-3 }
 
 Un premier atelier de travail a été organisé en novembre 2017. Il visait à faire le bilan en commun des outils existants, des points d’achoppement des applications et des orientations et actions qui seront développées par le groupe. Il a réuni une vingtaine de participants, chercheurs et doctorants, historiens, linguistes et programmeurs.
 
