@@ -24,7 +24,7 @@ À moyen terme, l’une des visées des producteurs de corpus numérisés de
 ### Responsable
 {: .fs-4 .fw-500 }
 
-[Eliana Magnani](https://www.pantheonsorbonne.fr/page-perso/emagnani){:target="_blank"}
+[Eliana Magnani](https://www.pantheonsorbonne.fr/page-perso/emagnani){:target="_blank"} (LAMOP : Laboratoire de médiévistique occidentale de Paris - UMR 8589)
 
 ---
 
