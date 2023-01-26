@@ -16,18 +16,16 @@ nav_order: 3
 {:toc}
 </details>
 
-[Guide de lemmatisation pour médiévistes.docx](/assets/doc/guide-lemmatisation.docx){: .btn .btn-green .fw-300 .text-grey-lt-000 .float-left .mr-2 }
+[Télécharger le guide de lemmatisation pour médiévistes](/assets/doc/guide-lemmatisation.docx){: .btn .btn-green .fw-300 .text-grey-lt-000 }
 
-<div style="margin-top: 34px;">télécharger le guide de lemmatisation</div>
-{: .fs-4 .fw-300 }
 
 ---
 
 Contributeurs:
-
 - Eliana Magnani
 - Nicolas Perreaux
 - Ariane Pinche
+{: .fs-5 .fw-400 .lh-0}
 
 ## Qu’est-ce la lemmatisation?
 
@@ -211,7 +209,7 @@ Ce document peut être reproduit par n'importe quel moyen que ce soit, pourvu qu
 
 ## Outils. Fiches techniques
 
-### Collatinus 11.1
+### Collatinus
 
 Outil multifonctionnel d'analyse de la langue latine
 
@@ -235,7 +233,7 @@ Outil multifonctionnel d'analyse de la langue latine
 - documentation : sous forme de pages html incluses dans le paquet d'installation.
 - contacts : Yves Ouvrard et Philippe Verkerk (collatinus@biblissima-condorcet.fr)
 
-#### Détails sur le tagueur
+__Détails sur le tagueur__
 
 - Le jeu d'étiquettes : # , a , a11, a12, a21, a22, a31, a32, a41, a42, a51, a52, a61, a62, a71, a8 , c , ce , d , de , i , m , m11, m12, m21, m22, m31, m32, m41, m42, m51, m52, m61, m62, m8 , n , n11, n12, n21, n22, n31, n32, n41, n42, n51, n52, n61, n62, n71, n8 , p , p11, p12, p21, p22, p31, p32, p41, p42, p51, p52, p61, p62, p71, p8 , r , re , snt, v0 , v1 , v11, v2 , v21, v3 , v31, v4 , v41, w , w11, w12, w21, w22, w31, w32, w41, w42, w51, w52, w61, w62, x ; certaines sont des reliquats des codes du LASLA et ne sont pas utilisées par Collatinus.
 
