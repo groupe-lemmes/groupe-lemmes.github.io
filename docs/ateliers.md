@@ -22,9 +22,9 @@ Le groupe de travail « Lemmes » s’est donné pour objectif initial l’aide
 
 ## Atelier 1 (07.11.2017)
 
-[Télécharger le compte-rendu de l'Atelier 1](/assets/doc/Atelier-1-[07.11.2017].zip){: .btn .btn-green .fw-300 .text-grey-lt-000 .my-1 }
+[Télécharger le compte-rendu de l'Atelier 1](/assets/doc/Atelier-1-[07.11.2017].zip){: .btn .btn-green .fw-300 .text-grey-lt-000 .mt-3 }
 
-Un premier atelier de travail a été organisé en novembre 2017. Il visait à faire le bilan en commun des outils existants, des points d’achoppement des applications et des orientations et actions qui seront développées par le groupe. Il a réuni une vingtaine de participants, chercheurs et doctorants, historiens, linguistes et programmeurs.
+JJJ Un premier atelier de travail a été organisé en novembre 2017. Il visait à faire le bilan en commun des outils existants, des points d’achoppement des applications et des orientations et actions qui seront développées par le groupe. Il a réuni une vingtaine de participants, chercheurs et doctorants, historiens, linguistes et programmeurs.
 
 Après la présentation et la discussion de différents « lemmatiseurs » : Collatinus (Y. Ouvrard, Ph. Verkerk), Pandora (J.-B. Camps), CompHistSem (T. Geelhaar), OMNIA (R. Alexandre), PALM (M. Aouini, C. Fletcher, A. Mairey), on a pu constater que, quels que soient leurs objectifs ou leurs structures (lexique plus entrainement ; réseau de neurones), tous les outils (tagueurs et/ou paramètres) présentés sont estimés performants à environ 90% (±5%). Ce sont donc les 5-15% d’erreurs qui demandent réflexion. En général, les applications s’achoppent là où se trouvent les problèmes historiques (S. Torres). La reconnaissance des noms propres (personnes et lieux) figure parmi les erreurs récurrents d’étiquetage et donc le groupe poursuivra ses travaux autour de ce point.
 
