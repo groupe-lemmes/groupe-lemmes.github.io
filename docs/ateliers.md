@@ -30,6 +30,8 @@ Après la présentation et la discussion de différents « lemmatiseurs » : 
 
 L’autre question soulevée est l’absence d’évaluation systématique et comparative des tagueurs (N. Perreaux). Il a été décidé de créer un corpus de référence, structuré, avec un échantillon de différents types de texte (en latin, français et anglais médiévaux) pour tester les outils avec le même corpus afin d’obtenir une évaluation raisonnée. L’objectif serait de concevoir, à partir de ces expériences, un «méta-tagueur» (T. Geelhaar) combinant les avantages des solutions proposées par chaque outil. Pour ce faire les membres du groupe partageront les différents paramètres et ressources déjà existants. Un espace de partage de fichiers pour le groupe a été ouvert dans Sharedocs du TGIR Huma-Num.
 
+---
+
 ## Atelier 2 (05.06.2018)
 
 <div style="margin-top: 34px;"></div>
