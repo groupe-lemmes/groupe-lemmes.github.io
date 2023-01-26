@@ -175,21 +175,7 @@ répartition. Elle est utilisée dans de nombreux buts : identifier l'auteur d'u
 le dater, le situer, extraire des connaissances, comparer, etc.
 
 * <a name="modele">**Modèle**</a> --
-Un modèle est un ensemble de règles qui permet de fléchir un lemme. On ne
-pourra donc ni conjuguer ni décliner avant de savoir quel modèle appliquer.
-Parmi ces règles, certaines donnent la méthode pour calculer un
-[radical](#radical), d'autres disent quelle [désinence](#desinence) ajouter à quel
-[radical](#radical) pour obtenir la forme recherchée. Un modèle reçoit le nom d'un
-lemme très employé appliquant ce modèle. Par exemple : _rosa, templum, amo_
-Il vaut mieux que ce lemme n'ait aucune ambiguïté. Par exemple, le nom
-_amicus_ est aussi un adjectif. Mieux vaut choisir _lupus_, qui est toujours un nom.
-Les dictionnaires papier ne donnent le modèle que de manière implicite. Par
-exemple, au lieu de dire que le lemme _cubitum_ suit le modèle _templum_,
-le dictionnaire donne le génitif (i) et le genre (n.) : **cubitum**, i, n.
-: coude. La grammaire académique propose un nombre réduit de modèles. Les
-lemmatiseurs latins en utilisent plus d'une centaine. Dans la flexion des
-lemmes les plus courants, on trouve la plupart du temps des formes irrégulières,
-qui désobéissent aux règles de leur modèle.
+Un modèle est un ensemble de règles qui permet de fléchir un lemme. On ne pourra donc ni conjuguer ni décliner avant de savoir quel modèle appliquer. Parmi ces règles, certaines donnent la méthode pour calculer un [radical](#radical), d'autres disent quelle [désinence](#desinence) ajouter à quel [radical](#radical) pour obtenir la forme recherchée. Un modèle reçoit le nom d'un lemme très employé appliquant ce modèle. Par exemple : _rosa, templum, amo_ Il vaut mieux que ce lemme n'ait aucune ambiguïté. Par exemple, le nom _amicus_ est aussi un adjectif. Mieux vaut choisir _lupus_, qui est toujours un nom. Les dictionnaires papier ne donnent le modèle que de manière implicite. Par exemple, au lieu de dire que le lemme _cubitum_ suit le modèle _templum_, le dictionnaire donne le génitif (i) et le genre (n.) : **cubitum**, i, n. : coude. La grammaire académique propose un nombre réduit de modèles. Les lemmatiseurs latins en utilisent plus d'une centaine. Dans la flexion des lemmes les plus courants, on trouve la plupart du temps des formes irrégulières, qui désobéissent aux règles de leur modèle.
 
 * <a name="morphologie">**morphologie**</a> --
 Liste des [traits morphologiques](#trait) caractéristiques d'une forme. Voici un tableau
@@ -299,7 +285,6 @@ utilisés par le latin. Intentionnellement, les listes sont en ordre alphabétiq
   - voix : _actif, passif_    
 Chaque [catégorie grammaticale](#pos) utilise un ou plusieurs de ces traits morphologiques. L'article
 _POS_ en donne la liste pour chaque catégorie.
-
 
 * <a name="vargraph">**variante graphique**</a> --
 La latin a une très longue histoire, au cours de laquelle les principes de notation
