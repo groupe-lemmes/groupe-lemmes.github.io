@@ -21,12 +21,12 @@ Dans le cas des langues à déclinaison et à forte variation orthographique,
 
 À moyen terme, l’une des visées des producteurs de corpus numérisés devrait être de pouvoir rendre librement accessible aux chercheurs leurs ensembles textuels déjà lemmatisés. Outre l’affinement des outils existants qu’il faudra continuer à soutenir, il s’agit aussi de sensibiliser les différentes équipes à l’importance de cette démarche pour le renouvellement de la recherche, l’intégrer dans les nouveaux projets mis en place et la déployer dans les corpus et bases de données déjà existants. La tâche n’est pas mince car, même si elles ne sont pas incompatibles, les possibilités des traitements automatisés sont très distinctes des méthodes habituelles (i.e. « manuelles ») de la recherche historique qui se trouvent ainsi concurrencées. Une situation, somme toute, que la sociologie de la science a bien diagnostiquée dans les processus qui conduisent à un changement de paradigme scientifique (T. Kuhn).
 
----
-
 ### Responsable
 {: .fs-4 .fw-500 }
 
 [Eliana Magnani](https://www.pantheonsorbonne.fr/page-perso/emagnani){:target="_blank"}
+
+---
 
 ### Repères bibliographiques
 
