@@ -7,6 +7,15 @@ nav_order: 5
 # Glossaire du traitement automatique de la langue
 {: .no_toc }
 
+<details open markdown="block">
+  <summary>
+    Table des matières
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 ---
 
 * <a name="analyse_morpho">**Analyse morphologique**</a> --
