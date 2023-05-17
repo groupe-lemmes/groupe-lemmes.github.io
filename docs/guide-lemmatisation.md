@@ -64,7 +64,7 @@ La lemmatisation comprend plusieurs étapes principales :
 - la recomposition des fichiers, avec les tokens, les lemmes et les métadonnées.
 
 Voici l’exemple du traitement d’une inscription provenant de l’abbaye de Saint-Martin d’Autun, de la fin du IXe siècle, l’épitaphe de Letbaldus : 
-- Acquisition du texte numérisé à partir de l’édition océrisée disponible sur la plateforme Persée. Corpus des Inscriptions de la France Médiévale, vol. 19 : Jura, Nièvre, Saône-et-Loire, éd. R. Favreau, J. Michaud et B. Mora, Paris, CNRS Éditions, 1997, p. 62, n° 7 (https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1)
+- Acquisition du texte numérisé à partir de l’édition océrisée disponible sur la plateforme Persée. Corpus des Inscriptions de la France Médiévale, vol. 19 : Jura, Nièvre, Saône-et-Loire, éd. R. Favreau, J. Michaud et B. Mora, Paris, CNRS Éditions, 1997, p. 62, n° 7 [https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1](https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1)
 
 ![](/assets/images/figures/figure1.png){:width="70%" .d-block .mx-auto}
 
@@ -76,9 +76,9 @@ Voici l’exemple du traitement d’une inscription provenant de l’abbaye de S
 
 ![](/assets/images/figures/figure3.png){:width="70%" .d-block .mx-auto}
 
-- Tokenisation (une ligne = un mot = un token), réalisée avec le tokenizer OMNIA (Renaud Alexandre), qui, entre autres, réalise aussi tout une série d’harmonisations du texte, comme le remplacement de « j » par « i », de « v » par « u »,  la séparation des enclitiques (aquarumque = aquarum + que), le remplacement les caractères accentués, la suppression des doubles espaces, entre autres (https://glossaria.eu/lemmatisation/#page-content).
+- Tokenisation (une ligne = un mot = un token), réalisée avec le tokenizer OMNIA (Renaud Alexandre), qui, entre autres, réalise aussi tout une série d’harmonisations du texte, comme le remplacement de « j » par « i », de « v » par « u »,  la séparation des enclitiques (aquarumque = aquarum + que), le remplacement les caractères accentués, la suppression des doubles espaces, entre autres [https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1](https://glossaria.eu/lemmatisation/#page-content).
 
-![](/assets/images/figures/figure4.png){:width="70%" .d-block .mx-auto}
+![](/assets/images/figures/figure4.png){:width="50%" .d-block .mx-auto}
 
 - Lemmatisation (POS-tagging), avec l’attribution dun POS (part of speech) à chaque token, et reconstitution du fichier, avec l’ajout des métadonnées (ici, seulement le nom du fichier). Le fichier contient ainsi, pour chaque mot/token (première colonne), le POS (deuxième colonne) et le lemme (troisième colonne).
 
