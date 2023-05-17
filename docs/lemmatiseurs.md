@@ -23,7 +23,7 @@ La lemmatisation peut s’effectuer à l’aide des différents outils de lemmat
 ## OMNIA
 {: .mb-3 }
 
-OMNIA a été élaboré pour être implementé au logiciel [TreeTagger](https://www.cis.lmu.de/~schmid/tools/TreeTagger/), développé pour le marquage morphosyntaxique (_POS – Part of Speech_), mais qui permet également la lemmatisation. OMNIA propose à la fois les paramètres nécessaires à son utilisation avec des textes en latin médiéval, et les fichiers permettant de recréer ces paramètres.
+OMNIA a été élaboré pour être implementé au logiciel [TreeTagger](https://www.cis.lmu.de/~schmid/tools/TreeTagger/){:target="_blank"}, développé pour le marquage morphosyntaxique (_POS – Part of Speech_), mais qui permet également la lemmatisation. OMNIA propose à la fois les paramètres nécessaires à son utilisation avec des textes en latin médiéval, et les fichiers permettant de recréer ces paramètres.
 
 Page web: [OMNIA](https://glossaria.eu/lemmatisation/#page-content){:target="_blank"}
 
@@ -69,6 +69,6 @@ Page web: [Pyrrha](https://dh.chartes.psl.eu/pyrrha){:target="_blank"}
 ## spaCy
 {: .mb-3 }
 
-spaCy est une bibliothèque logicielle [Python](https://fr.wikipedia.org/wiki/Python_(langage)) de traitement automatique des langues (TAL/NLP). Elle permet d’implémenter différentes d’annotations linguistiques pour donner un aperçu de la structure grammaticale d'un texte (types de mots, parties du discours, relations des mots entre eux). Elle réalise la tokenisation, la lemmatisation, le POS-Tagging, parmi d’autres opérations avancées.
+spaCy est une bibliothèque logicielle [Python](https://fr.wikipedia.org/wiki/Python_(langage){:target="_blank"} de traitement automatique des langues (TAL/NLP). Elle permet d’implémenter différentes d’annotations linguistiques pour donner un aperçu de la structure grammaticale d'un texte (types de mots, parties du discours, relations des mots entre eux). Elle réalise la tokenisation, la lemmatisation, le POS-Tagging, parmi d’autres opérations avancées.
 
 Page web: [spaCy](https://spacy.io/usage/spacy-101){:target="_blank"}
