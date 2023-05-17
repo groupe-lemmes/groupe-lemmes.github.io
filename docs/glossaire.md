@@ -10,12 +10,12 @@ nav_order: 5
 ----
 
 Yves Ouvrard, mars 2019
-{: .fs-3 .fw-300 }
+{: .fs-4 .fw-300 }
 
 Ce document peut être reproduit par n'importe quel moyen que ce soit,
 pourvu qu'aucune modification ne soit effectuée et que cette notice soit
 préservée.
-{: .fs-3 .fw-300 }
+{: .fs-4 .fw-300 }
 
 ---
 
