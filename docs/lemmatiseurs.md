@@ -18,7 +18,16 @@ nav_order: 4
 
 ---
 
-La lemmatisation peut s’effectuer à l’aide des différends lemmatiseurs. Cette présentation porte un regard particulier à quelques lemmatiseurs les plus utilisés lors de travail avec des textes médiévaux. 
+La lemmatisation peut s’effectuer à l’aide des différents outils de lemmatisation et s’appuyer sur différents jeux de paramètres. Cette présentation porte un regard particulier à quelques lemmatiseurs et jeux de paramètres utiles dans le travail avec des textes médiévaux. 
+
+## OMNIA
+{: .mb-3 }
+
+OMNIA a été élaboré pour être implementé au logiciel [TreeTagger](https://www.cis.lmu.de/~schmid/tools/TreeTagger/), développé pour le marquage morphosyntaxique (_POS – Part of Speech_), mais qui permet également la lemmatisation. OMNIA propose à la fois les paramètres nécessaires à son utilisation avec des textes en latin médiéval, et les fichiers permettant de recréer ces paramètres.
+
+Page web: [OMNIA](https://glossaria.eu/lemmatisation/#page-content){:target="_blank"}
+
+---
 
 ## Collatinus
 {: .mb-3 }
@@ -54,3 +63,12 @@ Pyrrha est une simple Python Flask WebApp pour accélérer la post-correction de
 Page web: [Pyrrha](https://dh.chartes.psl.eu/pyrrha){:target="_blank"}
 
 [Télécharger la présentation Pyrrha](/assets/doc/Pyrrha.zip){: .btn .btn-green .fw-300 .text-grey-lt-000 }
+
+---
+
+## spaCy
+{: .mb-3 }
+
+spaCy est une bibliothèque logicielle [Python](https://fr.wikipedia.org/wiki/Python_(langage)) de traitement automatique des langues (TAL/NLP). Elle permet d’implémenter différentes d’annotations linguistiques pour donner un aperçu de la structure grammaticale d'un texte (types de mots, parties du discours, relations des mots entre eux). Elle réalise la tokenisation, la lemmatisation, le POS-Tagging, parmi d’autres opérations avancées.
+
+Page web: [spaCy](https://spacy.io/usage/spacy-101){:target="_blank"}
