@@ -76,7 +76,7 @@ Voici l’exemple du traitement d’une inscription provenant de l’abbaye de S
 
 ![](/assets/images/figures/figure3.png){:width="70%" .d-block .mx-auto}
 
-- Tokenisation (une ligne = un mot = un token), réalisée avec le tokenizer OMNIA (Renaud Alexandre), qui, entre autres, réalise aussi tout une série d’harmonisations du texte, comme le remplacement de « j » par « i », de « v » par « u »,  la séparation des enclitiques (aquarumque = aquarum + que), le remplacement les caractères accentués, la suppression des doubles espaces, entre autres [https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1](https://glossaria.eu/lemmatisation/#page-content).
+- Tokenisation (une ligne = un mot = un token), réalisée avec le tokenizer OMNIA (Renaud Alexandre), qui, entre autres, réalise aussi tout une série d’harmonisations du texte, comme le remplacement de « j » par « i », de « v » par « u »,  la séparation des enclitiques (aquarumque = aquarum + que), le remplacement les caractères accentués, la suppression des doubles espaces, entre autres [https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1](https://glossaria.eu/lemmatisation/#page-content)..
 
 ![](/assets/images/figures/figure4.png){:width="30%" .d-block .mx-auto}
 
