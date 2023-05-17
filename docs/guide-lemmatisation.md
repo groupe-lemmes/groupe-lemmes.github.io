@@ -78,7 +78,7 @@ Voici l’exemple du traitement d’une inscription provenant de l’abbaye de S
 
 - Tokenisation (une ligne = un mot = un token), réalisée avec le tokenizer OMNIA (Renaud Alexandre), qui, entre autres, réalise aussi tout une série d’harmonisations du texte, comme le remplacement de « j » par « i », de « v » par « u »,  la séparation des enclitiques (aquarumque = aquarum + que), le remplacement les caractères accentués, la suppression des doubles espaces, entre autres [https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1](https://glossaria.eu/lemmatisation/#page-content){:target="_blank"}.
 
-![](/assets/images/figures/figure4.png){:width="10%" .d-block .mx-auto}
+![](/assets/images/figures/figure4.png){:width="20%" .d-block .mx-auto}
 
 - Lemmatisation (POS-tagging), avec l’attribution dun POS (part of speech) à chaque token, et reconstitution du fichier, avec l’ajout des métadonnées (ici, seulement le nom du fichier). Le fichier contient ainsi, pour chaque mot/token (première colonne), le POS (deuxième colonne) et le lemme (troisième colonne).
 
