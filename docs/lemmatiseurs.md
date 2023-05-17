@@ -69,6 +69,6 @@ Page web: [Pyrrha](https://dh.chartes.psl.eu/pyrrha){:target="_blank"}
 ## spaCy
 {: .mb-3 }
 
-spaCy est une bibliothèque logicielle [Python](https://fr.wikipedia.org/wiki/Python_(langage){:target="_blank"} de traitement automatique des langues (TAL/NLP). Elle permet d’implémenter différentes d’annotations linguistiques pour donner un aperçu de la structure grammaticale d'un texte (types de mots, parties du discours, relations des mots entre eux). Elle réalise la tokenisation, la lemmatisation, le POS-Tagging, parmi d’autres opérations avancées.
+spaCy est une bibliothèque logicielle [Python](https://fr.wikipedia.org/wiki/Python_(langage)) de traitement automatique des langues (TAL/NLP). Elle permet d’implémenter différentes d’annotations linguistiques pour donner un aperçu de la structure grammaticale d'un texte (types de mots, parties du discours, relations des mots entre eux). Elle réalise la tokenisation, la lemmatisation, le POS-Tagging, parmi d’autres opérations avancées.
 
 Page web: [spaCy](https://spacy.io/usage/spacy-101){:target="_blank"}
