@@ -9,7 +9,7 @@ nav_exclude: true
 
 ---
 
-Les travaux du Groupe de travail "Lemmes" du Consortium Sources médiévales 2 (COSME²) ont été financés par l'IR Huma-Num du CNRS.
+Les travaux du Groupe de travail "Lemmes" du Consortium Sources médiévales 2 (COSME²) ont été financés par l'[IR Huma-Num](https://www.huma-num.fr/){:target="_blank"} du CNRS.
 
 Responsable scientifique: [Eliana Magnani](https://www.pantheonsorbonne.fr/page-perso/emagnani){:target="_blank"} (CNRS - LaMOP)
 
