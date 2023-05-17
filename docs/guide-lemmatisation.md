@@ -60,11 +60,12 @@ La lemmatisation comprend plusieurs étapes principales :
 - Préparation des fichiers, enregistrés avec l’encodage UTF-8 et en .TXT, en général.
 - Préparation des métadonnées, en particulier les noms de fichiers et datations, dans un fiichier .CSV, en général.
 - Tokenisation, découpage du texte par lexème, un mot ou un signe de ponctuation par ligne.
-- La lemmatisation à proprement parler qui consiste en l’étiquetage morphosyntaxique des formes (POS-tagging = part-of-speech tagging), soit l’attribution d’un POS à chaque token (substantif, adjectif, préposition, conjonction, ponctuation, etc., associés ou pas au mode, au cas, au nombre). Les jeux d’étiquettes varient d’un outil à l’autre, 9 étiquettes pour le latin médiéval dans OMNIA, 91 étiquettes pour le latin classique dans Collatinus, par exemple.
+- La lemmatisation à proprement parler qui consiste en l’étiquetage morphosyntaxique des formes (_POS-tagging_ = _part-of-speech tagging_), soit l’attribution d’un POS à chaque token (substantif, adjectif, préposition, conjonction, ponctuation, etc., associés ou pas au mode, au cas, au nombre). Les jeux d’étiquettes varient d’un outil à l’autre, 9 étiquettes pour le latin médiéval dans OMNIA, 91 étiquettes pour le latin classique dans Collatinus, par exemple.
 - la recomposition des fichiers, avec les tokens, les lemmes et les métadonnées.
 
-Voici l’exemple du traitement d’une inscription provenant de l’abbaye de Saint-Martin d’Autun, de la fin du IXe siècle, l’épitaphe de Letbaldus : 
-- Acquisition du texte numérisé à partir de l’édition océrisée disponible sur la plateforme Persée. Corpus des Inscriptions de la France Médiévale, vol. 19 : Jura, Nièvre, Saône-et-Loire, éd. R. Favreau, J. Michaud et B. Mora, Paris, CNRS Éditions, 1997, p. 62, n° 7 [https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1](https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1){:target="_blank"}.
+Voici l’exemple du traitement d’une inscription provenant de l’abbaye de Saint-Martin d’Autun, de la fin du IXe siècle, l’épitaphe de _Letbaldus_:
+
+- Acquisition du texte numérisé à partir de l’édition océrisée disponible sur la plateforme Persée. _Corpus des Inscriptions de la France Médiévale_, vol. 19 : Jura, Nièvre, Saône-et-Loire, éd. R. Favreau, J. Michaud et B. Mora, Paris, CNRS Éditions, 1997, p. 62, n° 7 [https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1](https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1){:target="_blank"}.
 
 ![](/assets/images/figures/figure1.jpeg){:width="90%" .d-block .mx-auto}
 
@@ -76,25 +77,25 @@ Voici l’exemple du traitement d’une inscription provenant de l’abbaye de S
 
 ![](/assets/images/figures/figure3.png){:width="90%" .d-block .mx-auto}
 
-- Tokenisation (une ligne = un mot = un token), réalisée avec le tokenizer OMNIA (Renaud Alexandre), qui, entre autres, réalise aussi tout une série d’harmonisations du texte, comme le remplacement de « j » par « i », de « v » par « u »,  la séparation des enclitiques (aquarumque = aquarum + que), le remplacement les caractères accentués, la suppression des doubles espaces, entre autres [https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1](https://glossaria.eu/lemmatisation/#page-content){:target="_blank"}.
+- Tokenisation (une ligne = un mot = un token), réalisée avec le tokenizer OMNIA (Renaud Alexandre), qui, entre autres, réalise aussi tout une série d’harmonisations du texte, comme le remplacement de « j » par « i », de « v » par « u »,  la séparation des enclitiques (_aquarumque_ = _aquarum_ + _que_), le remplacement les caractères accentués, la suppression des doubles espaces, entre autres [https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1](https://glossaria.eu/lemmatisation/#page-content){:target="_blank"}.
 
 ![](/assets/images/figures/figure4.png){:width="20%" .d-block .mx-auto}
 
-- Lemmatisation (POS-tagging), avec l’attribution dun POS (part of speech) à chaque token, et reconstitution du fichier, avec l’ajout des métadonnées (ici, seulement le nom du fichier). Le fichier contient ainsi, pour chaque mot/token (première colonne), le POS (deuxième colonne) et le lemme (troisième colonne).
+- Lemmatisation (_POS-tagging_), avec l’attribution dun POS (part of speech) à chaque token, et reconstitution du fichier, avec l’ajout des métadonnées (ici, seulement le nom du fichier). Le fichier contient ainsi, pour chaque mot/token (première colonne), le POS (deuxième colonne) et le lemme (troisième colonne).
 
 ![](/assets/images/figures/figure5.png){:width="70%" .d-block .mx-auto}
 
 ## Bibliographie sélective
 
-- B[arbara] Greeneand, G. Rubin, Automatic grammatical tagging of English.Technical report, Providence, 1971.
+- B[arbara] Greeneand, G. Rubin, _Automatic grammatical tagging of English.Technical report_, Providence, 1971.
 - Bruno Bon, « OMNIA – Outils et Méthodes Numériques pour l’Interrogation et l’Analyse des textes médiolatins », _BUCEMA - Bulletin du centre d’études médiévales d’Auxerre_, 13, 2009, p. 291-292 [http://journals.openedition.org/cem/11086](http://journals.openedition.org/cem/11086){:target="_blank"}.
 - Bruno Bon,, « OMNIA: outils et méthodes numériques pour l’interrogation et l’analyse des textes médiolatins (2) », _BUCEMA - Bulletin du centre d’études médiévales d’Auxerre_, 14, 2010, p. 251-252 [http://journals.openedition.org/cem/11566](http://journals.openedition.org/cem/11566){:target="_blank"}.
 - Bruno Bon,, « OMNIA: outils et méthodes numériques pour l’interrogation et l’analyse des textes médiolatins (3) », _BUCEMA - Bulletin du centre d’études médiévales d’Auxerre_, 15, 2011, p. 333-334 [http://journals.openedition.org/cem/12015](http://journals.openedition.org/cem/12015){:target="_blank"}.
 - Enrique Manjavacas, Akos Kadar, Mike Kestemont, « Improving Lemmatization of Non-Standard Languages with Joint Learning », arXiv:1903.06939v1, 2019 [https://arxiv.org/format/1903.06939v1](https://arxiv.org/format/1903.06939v1){:target="_blank"}.
-- H. Schmid, “Part-of-Speech Tagging with Neural Networks”, Proceedings of the 15th International Conferenceon Computational Linguistics (COLING-94), 1944.
+- H. Schmid, “Part-of-Speech Tagging with Neural Networks”, _Proceedings of the 15th International Conferenceon Computational Linguistics (COLING-94)_, 1944.
 - Louis Delatte, Étienne Évrard, « Un laboratoire d'analyse statistique des langues anciennes à l'Université de Liège », _L’Antiquité classique_, 30-2, 1961, p. 429-444.
 - Łukasz Gągała, « Authorship Attribution with Neural Networks and Multiple Features : Notebook for PAN at CLEF 2018 », In Linda Cappellato, Nicola Ferro, Jian-Yun Nie, Laure Soulier (éd.) _Working Notes of CLEF 2018 - Conference and Labs of the Evaluation Forum_. Avignon, France, September 10-14, 2018, [http://ceur-ws.org/Vol-2125/paper_146.pdf](http://ceur-ws.org/Vol-2125/paper_146.pdf){:target="_blank"}.
-- M. Kestemont, J. De Gussem, “Integrated Sequence Tagging for  Medieval Latin Using Deep Representation Learning”, Journal of Data Mining and Digital Humanities, 2016, [https://hal.archives-ouvertes.fr/hal-01283083/](https://hal.archives-ouvertes.fr/hal-01283083/){:target="_blank"}.
+- M. Kestemont, J. De Gussem, “Integrated Sequence Tagging for  Medieval Latin Using Deep Representation Learning”, _Journal of Data Mining and Digital Humanities_, 2016, [https://hal.archives-ouvertes.fr/hal-01283083/](https://hal.archives-ouvertes.fr/hal-01283083/){:target="_blank"}.
 - Mike Kestemont, Guy de Pauw, Renske van Nie, Walter Daelemans, « Lemmatization for variation-rich languages using deep learning », _Digital Scholarship in the Humanities_, 32-4, 2017, p. 797-815, [https://doi.org/10.1093/llc/fqw034](https://doi.org/10.1093/llc/fqw034){:target="_blank"}.
 - Mourad Aouini, « A NooJ Module for Named Entity Recognition in Middle French Texts », In Johanna Monti, Max Silberztein, Mario Monteleone, Maria Pia di Buono (éd.), _Formalising Natural Languages with Nooj 2014_, Cambridge, 2015, p. 99-112.
 - Roberto Busa, « The Annals of Humanities Computing : the Index thomisticus », _Computers and the Humanities_, 14, 1980, p. 83-90.
