@@ -66,7 +66,7 @@ La lemmatisation comprend plusieurs étapes principales :
 Voici l’exemple du traitement d’une inscription provenant de l’abbaye de Saint-Martin d’Autun, de la fin du IXe siècle, l’épitaphe de Letbaldus : 
 - Acquisition du texte numérisé à partir de l’édition océrisée disponible sur la plateforme Persée. Corpus des Inscriptions de la France Médiévale, vol. 19 : Jura, Nièvre, Saône-et-Loire, éd. R. Favreau, J. Michaud et B. Mora, Paris, CNRS Éditions, 1997, p. 62, n° 7 [https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1](https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1){:target="_blank"}.
 
-![](/assets/images/figures/figure1.png){:width="80%" .d-block .mx-auto}
+![](/assets/images/figures/figure1.jpeg){:width="80%" .d-block .mx-auto}
 
 - Le texte encodé en UTF-8, enregistré en .TXT, avec des élements de métadonnées simplifiées dans le titre du fichier (Date, Lieu, Référence de l’édition).
 
