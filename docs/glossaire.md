@@ -7,6 +7,16 @@ nav_order: 5
 # Glossaire du traitement automatique de la langue
 {: .no_toc }
 
+----
+
+Yves Ouvrard, mars 2019
+{: .fs-6 .fw-300 }
+
+Ce document peut être reproduit par n'importe quel moyen que ce soit,
+pourvu qu'aucune modification ne soit effectuée et que cette notice soit
+préservée.
+{: .fs-6 .fw-300 }
+
 ---
 
 * <a name="analyse_morpho">**Analyse morphologique**</a> --
@@ -299,11 +309,3 @@ Un lemmatiseur doit pouvoir identifier et traiter ces variantes graphiques.
 deux lettres à l'alphabet latin, _j_ et _v_, afin de distinguer les deux
 prononciations du _i_ et du _u_. Dans les noms propres germaniques, la
 ligature de deux _v_ successifs, _vv_, est devenue la lettre _w_.
-
-----
-
-Yves Ouvrard, mars 2019
-
-Ce document peut être reproduit par n'importe quel moyen que ce soit,
-pourvu qu'aucune modification ne soit effectuée et que cette notice soit
-préservée.
