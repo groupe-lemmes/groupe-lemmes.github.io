@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Crédits
+nav_exclude: true
 ---
 
 # Crédits
