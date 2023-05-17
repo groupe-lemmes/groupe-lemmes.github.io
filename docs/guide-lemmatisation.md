@@ -66,7 +66,7 @@ La lemmatisation comprend plusieurs étapes principales :
 Voici l’exemple du traitement d’une inscription provenant de l’abbaye de Saint-Martin d’Autun, de la fin du IXe siècle, l’épitaphe de Letbaldus : 
 - Acquisition du texte numérisé à partir de l’édition océrisée disponible sur la plateforme Persée. Corpus des Inscriptions de la France Médiévale, vol. 19 : Jura, Nièvre, Saône-et-Loire, éd. R. Favreau, J. Michaud et B. Mora, Paris, CNRS Éditions, 1997, p. 62, n° 7 [https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1](https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1){:target="_blank"}.
 
-![](/assets/images/figures/figure1.png){:width="70%" .d-block .mx-auto}
+![](/assets/images/figures/figure1.png){:width="90%" .d-block .mx-auto}
 
 - Le texte encodé en UTF-8, enregistré en .TXT, avec des élements de métadonnées simplifiées dans le titre du fichier (Date, Lieu, Référence de l’édition).
 
@@ -74,7 +74,7 @@ Voici l’exemple du traitement d’une inscription provenant de l’abbaye de S
 
 - Extrait d’une partie du fichier .CSV avec les métadonnées complètes du corpus d’inscriptions.
 
-![](/assets/images/figures/figure3.png){:width="70%" .d-block .mx-auto}
+![](/assets/images/figures/figure3.png){:width="90%" .d-block .mx-auto}
 
 - Tokenisation (une ligne = un mot = un token), réalisée avec le tokenizer OMNIA (Renaud Alexandre), qui, entre autres, réalise aussi tout une série d’harmonisations du texte, comme le remplacement de « j » par « i », de « v » par « u »,  la séparation des enclitiques (aquarumque = aquarum + que), le remplacement les caractères accentués, la suppression des doubles espaces, entre autres [https://www.persee.fr/doc/cifm_0000-0000_1997_cat_19_1](https://glossaria.eu/lemmatisation/#page-content){:target="_blank"}.
 
