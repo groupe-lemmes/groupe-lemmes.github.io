@@ -2,8 +2,8 @@
 layout: default
 title: Accueil
 nav_order: 1
-tagline: COSME2-FAIR
-description: "Consortium Sources Médiévales 2 - FAIR"
+tagline: groupe de travail Lemmes
+description: "groupe de travail Lemmes"
 permalink: /
 ---
 
