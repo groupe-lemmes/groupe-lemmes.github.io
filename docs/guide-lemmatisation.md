@@ -33,7 +33,7 @@ Dans le cas des langues flexionnelles et à forte variation graphique, comme cel
 
 ## Pour quoi faire? 
 
-La lemmatisation est une opération nécessaire au préalable de différents types d’analyses de corpus textuels, de fouilles de texte/données (_Text_/_Data mining_), quelles soient d’ordre philologique ou historique.
+La lemmatisation s’inscrit dans le champ du traitement automatique du langage naturel (TAL/NPL). Il s’agit d’une opération nécessaire au préalable de différents types d’analyses de corpus textuels, de fouilles de texte/données (_Text_/_Data mining_), qu’elles soient d’ordre philologique ou historique.
 
 Lemmatiser et annoter la morphosyntaxe d'un corpus permet par la suite de l’interroger pour le trier ou en vue d’analyses statistiques, opérations, souvent, aussi bien nécessaires au linguiste, qu’à l’éditeur scientifique qu’à l’historien. Par exemple à partir d’un corpus lemmatisé, il est facile de constituer un glossaire qui répertorie sous une même entrée toutes les variations graphiques d’un mot, en opérant un tri à partir du lemme de l’annotation qui, lui, est unique pour chaque mot du lexique.
 
@@ -43,7 +43,7 @@ Appliquée à un corpus textuel diachroniques, relatif à une entité spatiale p
 
 ## Quels outils?
 
-D’un point de vue technique, la lemmatisation automatique ou semi-automatique regroupe plusieurs opérations : l’acquisition du ou des textes dans un format numérisé élémentaire ; la tokenisation, c’est-à-dire le découpage du texte par lexème, au cours de laquelle le texte peut être pré-formaté selon les choix et besoins des concepteurs des outils (par exemple, nettoyage des caractères spéciaux, séparation d’enclitiques) ; l’étiquetage morphosyntaxique des formes (_POS tagging = part-of-speech tagging_) avec un jeux d’étiquettes très variable d’un outil à autre ; et le regroupement des formes sous le lemme correspondant. Plusieurs difficultés doivent être surmontées dans ce processus, notamment la désambiguïsation des homographes et les variations graphiques des formes.
+D’un point de vue technique, la lemmatisation automatique ou semi-automatique regroupe plusieurs opérations. Ces opérations interviennent après l’acquisition du ou des textes dans un format numérisé élémentaire (soit grâce à un fichier déjà disponible, soit grâce à une saisie manuelle, ou encore à un processus d’OCR/HTR). Les principales étapes de la lemmatisation proprement dite sont la tokenisation, c’est-à-dire le découpage du texte par lexème, au cours de laquelle le texte peut être pré-formaté selon les choix et besoins des concepteurs des outils (par exemple, nettoyage des caractères spéciaux, séparation d’enclitiques) ; l’étiquetage morphosyntaxique des formes (_POS tagging = part-of-speech tagging_) avec un jeux d’étiquettes très variable d’un outil à autre ; et le regroupement des formes sous le lemme correspondant. Plusieurs difficultés doivent être surmontées dans ce processus, notamment la désambiguïsation des homographes et les variations graphiques des formes.
 
 Les outils actuels pour associer aux formes une étiquette (POS) correcte, se partagent en deux groupes principaux.
 
@@ -56,12 +56,12 @@ Dans les deux cas, un travail manuel en amont est nécessaire, l’établissemen
 ## Par où commencer?
 
 La lemmatisation comprend plusieurs étapes principales :
-- Acquisition du texte (ou du corpus de textes) numérisé, récupéré sur internet, océrisé ou transcrit par le chercheur. Selon la qualité du texte numérisé, un nettoyage est nécessaire pour remplacer des caractères spéciaux (« & » par « et », par exemple) ou pour corriger les erreurs d’océrisation (« nr » par « m », par exemple).
-- Préparation des fichiers, enregistrés avec l’encodage UTF-8 et en .TXT, en général.
-- Préparation des métadonnées, en particulier les noms de fichiers et datations, dans un fiichier .CSV, en général.
-- Tokenisation, découpage du texte par lexème, un mot ou un signe de ponctuation par ligne.
-- La lemmatisation à proprement parler qui consiste en l’étiquetage morphosyntaxique des formes (_POS-tagging_ = _part-of-speech tagging_), soit l’attribution d’un POS à chaque token (substantif, adjectif, préposition, conjonction, ponctuation, etc., associés ou pas au mode, au cas, au nombre). Les jeux d’étiquettes varient d’un outil à l’autre, 9 étiquettes pour le latin médiéval dans OMNIA, 91 étiquettes pour le latin classique dans Collatinus, par exemple.
-- la recomposition des fichiers, avec les tokens, les lemmes et les métadonnées.
+- L'acquisition du texte (ou du corpus de textes) numérisé est un préalable à la lemmatisation. Plusieurs cas de figure se présentent : utilisation de fichiers préexistants, saisie manuelle, ou encore recours aux méthodes automatiques de reconnaissance optique de caractères imprimés ou dactylographiés (OCR - _Optical Character Recognition_) ou d’écritures manuscrites (HTR - _Handwritten Text Recognition_).
+- La préparation des fichiers consiste, d’une part, dans leur enregistrement avec l’encodage UTF-8 et en .TXT en général, et d’autre part, dans le processus de post correction, notamment pour les textes acquis par OCR ou HTR.
+- La préparation des métadonnées réunies en général dans un fiichier .CSV, concerne en particulier les noms de fichiers et les datations.
+- La tokenisation consiste en la mise en forme souhaitée du texte (uniformisation des graphies, séparation ou pas des enclitiques, etc.), son découpage par lexème, un mot ou un signe de ponctuation par ligne.
+- La lemmatisation à proprement parler consiste en l’étiquetage morphosyntaxique des formes (_POS-tagging_ = _part-of-speech tagging_), soit l’attribution d’un POS à chaque token (substantif, adjectif, préposition, conjonction, ponctuation, etc., associés ou pas au mode, au cas, au nombre). Les jeux d’étiquettes varient d’un outil à l’autre, 9 étiquettes pour le latin médiéval dans OMNIA, 91 étiquettes pour le latin classique dans Collatinus, par exemple. L’attribution du lemme à chaque forme intervient le plus souvent après l’attribution du POS.
+- La recomposition des fichiers, avec les tokens, les lemmes et les métadonnées.
 
 Voici l’exemple du traitement d’une inscription provenant de l’abbaye de Saint-Martin d’Autun, de la fin du IXe siècle, l’épitaphe de _Letbaldus_:
 
@@ -86,6 +86,8 @@ Voici l’exemple du traitement d’une inscription provenant de l’abbaye de S
 ![](/assets/images/figures/figure5.png){:width="70%" .d-block .mx-auto}
 
 ## Bibliographie sélective
+(_dans l'ordre chronologique_)
+{: .fs-3 .fw-300 .lh-tight}
 
 - B[arbara] Greeneand, G. Rubin, _Automatic grammatical tagging of English.Technical report_, Providence, 1971.
 - Bruno Bon, « OMNIA – Outils et Méthodes Numériques pour l’Interrogation et l’Analyse des textes médiolatins », _BUCEMA - Bulletin du centre d’études médiévales d’Auxerre_, 13, 2009, p. 291-292 [http://journals.openedition.org/cem/11086](http://journals.openedition.org/cem/11086){:target="_blank"}.
