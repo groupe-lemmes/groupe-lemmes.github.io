@@ -25,7 +25,7 @@ Contributeurs:
 - Ariane Pinche
 {: .fs-4 .fw-300 .lh-tight}
 
-## Qu’est-ce la lemmatisation?
+## Qu’est-ce que la lemmatisation?
 
 La lemmatisation est le processus de déflexionalisation des mots pour déterminer leur lemme (comme dans une entrée de dictionnaire). Les mots flexionnés sont appelés lexèmes.
 
