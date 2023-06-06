@@ -141,19 +141,19 @@ Page web: [CLTK](http://cltk.org/){:target="_blank"}
 
 Jeux de paramètres et modèles pour les langues médiévales, principalement pour le latin et l’ancien français:
 
-- OMNIA (latin, en particulier latin médiéval ; TreeTagger)
-- Lasla (latin ; Pie, via le modèle Deucalion latin + Collatinus)
-- Achim Stein (anciens français ; TreeTagger)
-- LatinCy (latin ; Spacy : [https://huggingface.co/latincy](https://huggingface.co/latincy){:target="_blank"}; [https://spacy.io/universe/project/latincy](https://spacy.io/universe/project/latincy){:target="_blank"}; [https://arxiv.org/abs/2305.04365](https://arxiv.org/abs/2305.04365){:target="_blank"})
-- Deucalion (Ancien français ; [https://zenodo.org/record/3237455](https://zenodo.org/record/3237455){:target="_blank"}; lemmes issus du Tobler‑Lommatzsch +  POS issus de Cattex ; pour Pie)
-- Middle High German (moyen haut allemand ; TreeTagger)
+- OMNIA (latin, en particulier latin médiéval; TreeTagger)
+- Lasla (latin; Pie, via le modèle Deucalion latin + Collatinus)
+- Achim Stein (anciens français; TreeTagger)
+- LatinCy (latin; Spacy: [https://huggingface.co/latincy](https://huggingface.co/latincy){:target="_blank"}; [https://spacy.io/universe/project/latincy](https://spacy.io/universe/project/latincy){:target="_blank"}; [https://arxiv.org/abs/2305.04365](https://arxiv.org/abs/2305.04365){:target="_blank"})
+- Deucalion (Ancien français; [https://zenodo.org/record/3237455](https://zenodo.org/record/3237455){:target="_blank"}; lemmes issus du Tobler‑Lommatzsch +  POS issus de Cattex; pour Pie)
+- Middle High German (moyen haut allemand; TreeTagger)
 - PALM (TreeTagger)
-- Latin pour TreeTagger (TreeTagger : [https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/){:target="_blank"})
-- LiLa Lemma Bank (latin ; pas de logiciel spécifique : [https://lila-erc.eu/lodview/data/id/lemma/LemmaBank](https://lila-erc.eu/lodview/data/id/lemma/LemmaBank){:target="_blank"})
-- Old French lemmatization (Ancien français ; TreeTagger : [https://github.com/CristinaGHolgado/old-french-lemmatization](https://github.com/CristinaGHolgado/old-french-lemmatization){:target="_blank"})
-- eHumanities Desktop (latin ; MarMoT [https://www.texttechnologylab.org/applications/ehumanities-desktop/](https://www.texttechnologylab.org/applications/ehumanities-desktop/){:target="_blank"})
-- Perseus TreeBank (latin ; [https://github.com/PerseusDL/treebank_data/tree/master/v2.0/Latin](https://github.com/PerseusDL/treebank_data/tree/master/v2.0/Latin){:target="_blank"})
-- CLTK (plusieurs langues anciennes : latin ; vieil anglais ; moyen anglais ; moyen haut allemand ; etc. : [https://legacy.cltk.org/en/latest/index.html](https://legacy.cltk.org/en/latest/index.html){:target="_blank"}) 
+- Latin pour TreeTagger (TreeTagger: [https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/){:target="_blank"})
+- LiLa Lemma Bank (latin; pas de logiciel spécifique: [https://lila-erc.eu/lodview/data/id/lemma/LemmaBank](https://lila-erc.eu/lodview/data/id/lemma/LemmaBank){:target="_blank"})
+- Old French lemmatization (Ancien français; TreeTagger: [https://github.com/CristinaGHolgado/old-french-lemmatization](https://github.com/CristinaGHolgado/old-french-lemmatization){:target="_blank"})
+- eHumanities Desktop (latin; MarMoT [https://www.texttechnologylab.org/applications/ehumanities-desktop/](https://www.texttechnologylab.org/applications/ehumanities-desktop/){:target="_blank"})
+- Perseus TreeBank (latin; [https://github.com/PerseusDL/treebank_data/tree/master/v2.0/Latin](https://github.com/PerseusDL/treebank_data/tree/master/v2.0/Latin){:target="_blank"})
+- CLTK (plusieurs langues anciennes: latin; vieil anglais; moyen anglais; moyen haut allemand; etc.: [https://legacy.cltk.org/en/latest/index.html](https://legacy.cltk.org/en/latest/index.html){:target="_blank"}) 
 
 
 ## Les outils de post-traitement en lemmatisation
