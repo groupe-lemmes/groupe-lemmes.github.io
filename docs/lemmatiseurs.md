@@ -23,7 +23,7 @@ nav_order: 4
 ### TreeTagger
 {: .mb-3 }
 
- The TreeTagger is a tool for annotating text with part-of-speech and lemma information. It was developed by Helmut Schmid in the TC project at the Institute for Computational Linguistics of the University of Stuttgart. The TreeTagger has been successfully used to tag German, English, French, Italian, Danish, Swedish, Norwegian, Dutch, Spanish, Bulgarian, Russian, Portuguese, Belarusian, Ukrainian, Galician, Greek, Chinese, Swahili, Slovak, Slovenian, Latin, Estonian, Polish, Persian, Romanian, Czech, Coptic and old French texts and is adaptable to other languages if a lexicon and a manually tagged training corpus are available. 
+Le TreeTagger est un outil permettant d'annoter des textes avec des informations sur les parties du discours et les lemmes. Il a été développé par Helmut Schmid dans le cadre du projet TC à l'Institut de linguistique informatique de l'université de Stuttgart. Le TreeTagger a été utilisé avec succès pour annoter des textes allemands, anglais, français, italiens, danois, suédois, norvégiens, néerlandais, espagnols, bulgares, russes, portugais, biélorusses, ukrainiens, galiciens, grecs, chinois, swahili, slovaques, slovènes, latins, estoniens, polonais, persans, roumains, tchèques, coptes et vieux français. Il est adaptable à d'autres langues si un lexique et un corpus d'entraînement étiqueté manuellement sont disponibles. 
 
 Page web: [TreeTagger](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/){:target="_blank"}
 
@@ -52,7 +52,7 @@ Page web: [spaCy](https://spacy.io/usage/spacy-101){:target="_blank"}
 ### Pie (et Deucalion/Flask Pie)
 {: .mb-3 }
 
-Pie is a language independant lemmatizer implemented in python and built for "variation-rich languages" which includes Latin. It's a deep learning tool that can be trained and retrained with data in TSV format. As of 2019, it seems to be one of the state-of-the-art lemmatizers in terms of results. It can be trained jointly on morphology, POS and lemmatization tasks. 
+Pie est un lemmatiseur indépendant de la langue implémenté en python et conçu pour les "langues riches en variations", dont le latin. C'est un outil d'apprentissage profond qui peut être entraîné et réentraîné avec des données au format TSV. En 2019, il semble être l'un des lemmatiseurs de pointe en termes de résultats. Il peut être entraîné conjointement sur des tâches de morphologie, de POS et de lemmatisation. 
 
 Page web: [Pie (et Deucalion/Flask Pie)](https://wiki.digitalclassicist.org/Deucalion_and_Pie_lemmatizers){:target="_blank"}
 
@@ -61,7 +61,7 @@ Page web: [Pie (et Deucalion/Flask Pie)](https://wiki.digitalclassicist.org/Deuc
 ### StanfordNLP
 {: .mb-3 }
 
-StanfordNLP is a Python natural language analysis package. It contains tools, which can be used in a pipeline, to convert a string containing human language text into lists of sentences and words, to generate base forms of those words, their parts of speech and morphological features, and to give a syntactic structure dependency parse, which is designed to be parallel among more than 70 languages, using the Universal Dependencies formalism. In addition, it is able to call the CoreNLP Java package and inherits additonal functionality from there, such as constituency parsing, coreference resolution, and linguistic pattern matching.
+StanfordNLP est un logiciel Python d'analyse du langage naturel. Il contient des outils, qui peuvent être utilisés dans un pipeline, pour convertir une chaîne contenant un texte en langage humain en listes de phrases et de mots, pour générer des formes de base de ces mots, leurs parties du discours et leurs caractéristiques morphologiques, et pour donner une analyse de la dépendance de la structure syntaxique, qui est conçue pour être parallèle parmi plus de 70 langues, en utilisant le formalisme des dépendances universelles. En outre, il est capable d'appeler le paquet Java CoreNLP et d'en hériter des fonctionnalités supplémentaires, telles que l'analyse syntaxique des constituants, la résolution des coréférences et l'appariement des modèles linguistiques.
 
 Page web: [StanfordNLP](https://stanfordnlp.github.io/stanfordnlp/){:target="_blank"}
 
@@ -70,7 +70,7 @@ Page web: [StanfordNLP](https://stanfordnlp.github.io/stanfordnlp/){:target="_bl
 ### WordNet (nltk)
 {: .mb-3 }
 
-WordNet® is a large lexical database of English. Nouns, verbs, adjectives and adverbs are grouped into sets of cognitive synonyms (synsets), each expressing a distinct concept. Synsets are interlinked by means of conceptual-semantic and lexical relations. The resulting network of meaningfully related words and concepts can be navigated with the browser. WordNet is also freely and publicly available for download. WordNet's structure makes it a useful tool for computational linguistics and natural language processing.
+WordNet® est une grande base de données lexicale de l'anglais. Les noms, les verbes, les adjectifs et les adverbes sont regroupés en ensembles de synonymes cognitifs (synsets), chacun exprimant un concept distinct. Les synsets sont reliés entre eux par des relations conceptuelles, sémantiques et lexicales. Le réseau de mots et de concepts significativement liés qui en résulte peut être parcouru à l'aide d'un navigateur. WordNet peut également être téléchargé gratuitement et publiquement. La structure de WordNet en fait un outil utile pour la linguistique informatique et le traitement du langage naturel.
 
 Page web: [WordNet](https://wordnet.princeton.edu/){:target="_blank"}
 
@@ -79,7 +79,7 @@ Page web: [WordNet](https://wordnet.princeton.edu/){:target="_blank"}
 ### TextBlob
 {: .mb-3 }
 
-TextBlob is a Python (2 and 3) library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.
+TextBlob est une bibliothèque Python (2 et 3) pour le traitement des données textuelles. Elle fournit une API simple permettant de se plonger dans des tâches courantes de traitement du langage naturel (NLP) telles que l'étiquetage des parties du discours, l'extraction de phrases nominales, l'analyse des sentiments, la classification, la traduction, et bien plus encore.
 
 Page web: [TextBlob](https://textblob.readthedocs.io/en/dev/){:target="_blank"}
 
@@ -88,7 +88,7 @@ Page web: [TextBlob](https://textblob.readthedocs.io/en/dev/){:target="_blank"}
 ### MarMoT
 {: .mb-3 }
 
-MARMOT is a Python library for dealing with multimodal data consisting of both images and text. It does not require multimodal pretraining and it can deal with observations missing modalities. This repo is currently under construction and is in a very rough state; please feel free to reach out if you have any questions.
+MARMOT est une bibliothèque Python permettant de traiter des données multimodales composées à la fois d'images et de texte. Elle ne nécessite pas de pré-entraînement multimodal et peut traiter les observations de modalités manquantes. Ce repo est actuellement en construction et est dans un état très approximatif ; n'hésitez pas à nous contacter si vous avez des questions.
 
 Page web: [MarMoT](https://github.com/patrickywu/MARMOT){:target="_blank"}
 
@@ -97,7 +97,7 @@ Page web: [MarMoT](https://github.com/patrickywu/MARMOT){:target="_blank"}
 ### FastText
 {: .mb-3 }
 
-FastText is an open-source, free, lightweight library that allows users to learn text representations and text classifiers. It works on standard, generic hardware. Models can later be reduced in size to even fit on mobile devices.
+FastText est une bibliothèque libre, gratuite et légère qui permet aux utilisateurs d'apprendre les représentations de texte et les classificateurs de texte. Elle fonctionne sur du matériel standard et générique. Les modèles peuvent être réduits par la suite pour tenir sur des appareils mobiles.
 
 Page web: [FastText](https://fasttext.cc/){:target="_blank"}
 
@@ -115,7 +115,7 @@ Page web: [LGeRM](http://stella.atilf.fr/LGeRM/plateforme/){:target="_blank"}
 ### UDPipe
 {: .mb-3 }
 
-UDPipe is a trainable pipeline for tokenization, tagging, lemmatization and dependency parsing of CoNLL-U files. UDPipe is language-agnostic and can be trained given annotated data in CoNLL-U format. Trained models are provided for nearly all UD treebanks. UDPipe is available as a binary for Linux/Windows/OS X, as a library for C++, Python, Perl, Java, C#, and as a web service. Third-party R CRAN package also exists. 
+UDPipe est un pipeline entraînable pour la tokenisation, l'étiquetage, la lemmatisation et l'analyse des dépendances des fichiers CoNLL-U. UDPipe est indépendant de la langue et peut être entraîné à partir de données annotées au format CoNLL-U. Des modèles entraînés sont fournis pour presque toutes les banques d'arbres de l'UD. UDPipe est disponible sous forme de binaire pour Linux/Windows/OS X, de bibliothèque pour C++, Python, Perl, Java, C#, et de service web. Un paquet R CRAN tiers existe également. 
 
 Page web: [UDPipe](https://lindat.mff.cuni.cz/services/udpipe/){:target="_blank"}
 
@@ -124,7 +124,7 @@ Page web: [UDPipe](https://lindat.mff.cuni.cz/services/udpipe/){:target="_blank"
 ### FreeLing
 {: .mb-3 }
 
-FreeLing is a C++ library providing language analysis functionalities (morphological analysis, named entity detection, PoS-tagging, parsing, Word Sense Disambiguation, Semantic Role Labelling, etc.) for a variety of languages (English, Spanish, Portuguese, Italian, French, German, Russian, Catalan, Galician, Croatian, Slovene, among others).
+FreeLing est une bibliothèque C++ offrant des fonctionnalités d'analyse linguistique (analyse morphologique, détection d'entités nommées, étiquetage PoS, analyse syntaxique, désambiguïsation du sens des mots, étiquetage sémantique des rôles, etc.) pour une variété de langues (anglais, espagnol, portugais, italien, français, allemand, russe, catalan, galicien, croate, slovène, entre autres).
 
 Page web: [FreeLing](https://nlp.lsi.upc.edu/freeling/index.php/){:target="_blank"}
 
@@ -133,7 +133,7 @@ Page web: [FreeLing](https://nlp.lsi.upc.edu/freeling/index.php/){:target="_blan
 ### CLTK
 {: .mb-3 }
 
-The Classical Language Toolkit (CLTK) is a Python library offering natural language processing (NLP) for the languages of pre–modern Eurasia. Pre-configured pipelines are available for 19 languages.
+Le Classical Language Toolkit (CLTK) est une bibliothèque Python permettant le traitement du langage naturel (NLP) pour les langues de l'Eurasie pré-moderne. Des pipelines préconfigurés sont disponibles pour 19 langues.
 
 Page web: [CLTK](http://cltk.org/){:target="_blank"}
 
