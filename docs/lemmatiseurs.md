@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Lemmatiseurs
+title: Lemmatiseurs, paramètres, outils
 nav_order: 4
 ---
 
-# Lemmatiseurs
+# Lemmatiseurs, paramètres, outils
 {: .no_toc }
 
 <details open markdown="block">
