@@ -38,8 +38,6 @@ En pratique, il est utile surtout au professeur de latin, qui peut ainsi très r
 
 Page web: [Collatinus](https://outils.biblissima.fr/fr/collatinus/){:target="_blank"}
 
-[Télécharger la présentation Collatinus](/assets/doc/Collatinus.zip){: .btn .btn-green .fw-300 .text-grey-lt-000 }
-
 ---
 
 ### spaCy
