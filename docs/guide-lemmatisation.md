@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Guide lemmatisation
+title: Guide de lemmatisation
 nav_order: 3
 ---
 
