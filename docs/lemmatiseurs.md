@@ -190,7 +190,7 @@ Page web: [OMNIA](https://glossaria.eu/lemmatisation/#page-content){:target="_bl
 ### PALM 
 {: .mb-3 }
 
-(TreeTagger)[http://palm.huma-num.fr/PALM/](http://palm.huma-num.fr/PALM/){:target="_blank"}
+(TreeTagger) [http://palm.huma-num.fr/PALM/](http://palm.huma-num.fr/PALM/){:target="_blank"}
 
 La plateforme PALM (Plateforme d’analyse linguistique médiévale) est destinée au traitement des textes médiévaux (MEDITEXT): il s'agit d'un système s'adressant moins aux philologues qu'aux historiens ou aux philosophes qui, désireux d'entreprendre des recherches lexicométriques ou sémantiques, se heurtent à l'absence d'une orthographe normalisée et à la variabilité tant géographique que chronologique des lexiques médiévaux.
 
