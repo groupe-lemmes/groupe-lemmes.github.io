@@ -144,7 +144,7 @@ Jeux de paramètres et modèles pour les langues médiévales, principalement po
 ### OMNIA
 {: .mb-3 }
 
-(latin, en particulier latin médiéval; TreeTagger)[https://glossaria.eu/lemmatisation/#page-content](https://glossaria.eu/lemmatisation/#page-content){:target="_blank"}
+(latin, en particulier latin médiéval; TreeTagger) [https://glossaria.eu/lemmatisation/#page-content](https://glossaria.eu/lemmatisation/#page-content){:target="_blank"}
 
 OMNIA a été élaboré pour être implementé au logiciel [TreeTagger](https://www.cis.lmu.de/~schmid/tools/TreeTagger/){:target="_blank"}, développé pour le marquage morphosyntaxique (_POS – Part of Speech_), mais qui permet également la lemmatisation. OMNIA propose à la fois les paramètres nécessaires à son utilisation avec des textes en latin médiéval, et les fichiers permettant de recréer ces paramètres.
 
@@ -155,7 +155,7 @@ Page web: [OMNIA](https://glossaria.eu/lemmatisation/#page-content){:target="_bl
 ### Lasla 
 {: .mb-3 }
 
-(latin; Pie, via le modèle Deucalion latin + Collatinus)[https://www.lasla.uliege.be/cms/c_8570393/fr/lasla-logiciels](https://www.lasla.uliege.be/cms/c_8570393/fr/lasla-logiciels){:target="_blank"}
+(latin; Pie, via le modèle Deucalion latin + Collatinus) [https://www.lasla.uliege.be/cms/c_8570393/fr/lasla-logiciels](https://www.lasla.uliege.be/cms/c_8570393/fr/lasla-logiciels){:target="_blank"}
 
 ---
 
