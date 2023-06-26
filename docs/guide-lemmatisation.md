@@ -29,7 +29,7 @@ Contributeurs:
 
 ## Qu’est-ce que la lemmatisation?
 
-La lemmatisation est le processus de déflexionalisation des mots pour déterminer leur lemme (comme dans une entrée de dictionnaire). Les mots flexionnés sont appelés lexèmes.
+La lemmatisation est le processus inverse de la flexion (déclinaison ou conjugaison). Cette dernière associe à un lemme (l'entrée d'un dictionnaire) toutes les formes fléchies qui en viennent. Il s'agira des formes déclinées pour un nom ou un adjectif et des formes conjuguées pour un verbe. La lemmatisation consiste donc en l'attribution d'un lemme à une forme fléchie. En plus de la flexion à proprement parler, on peut avoir des variations graphiques pour une même forme. On donne parfois le nom de “lexème” à une forme fléchie.
 
 Dans le cas des langues flexionnelles et à forte variation graphique, comme celles employées dans l’Occident médiéval – le latin et les langues vernaculaires –, le développement de procédures de recherche formalisées et assistées informatiquement implique la lemmatisation des textes utilisés. Ce procédé – manuel, semi-automatisé ou automatisé –, n’est pas chose nouvelle, mais au cours des dernières années, plusieurs lemmatiseurs ou de paramètres pour la lemmatisation des langues médiévales ont été créés.
 
@@ -60,8 +60,8 @@ Dans les deux cas, un travail manuel en amont est nécessaire, l’établissemen
 La lemmatisation comprend plusieurs étapes principales :
 - L'acquisition du texte (ou du corpus de textes) numérisé est un préalable à la lemmatisation. Plusieurs cas de figure se présentent : utilisation de fichiers préexistants, saisie manuelle, ou encore recours aux méthodes automatiques de reconnaissance optique de caractères imprimés ou dactylographiés (OCR - _Optical Character Recognition_) ou d’écritures manuscrites (HTR - _Handwritten Text Recognition_).
 - La préparation des fichiers consiste, d’une part, dans leur enregistrement avec l’encodage UTF-8 et en .TXT en général, et d’autre part, dans le processus de post correction, notamment pour les textes acquis par OCR ou HTR.
-- La préparation des métadonnées réunies en général dans un fiichier .CSV, concerne en particulier les noms de fichiers et les datations.
-- La tokenisation consiste en la mise en forme souhaitée du texte (uniformisation des graphies, séparation ou pas des enclitiques, etc.), son découpage par lexème, un mot ou un signe de ponctuation par ligne.
+- Ce n’est pas obligatoirement lié à la lemmatisation, mais dans le cas de la constitution d’un corpus de textes, il faut penser à la préparation des métadonnées réunies en général dans un fichier .CSV. Les métadonnées concernent en particulier les noms de fichiers et les datations. 
+- La tokenisation consiste en la mise en forme souhaitée du texte (uniformisation des graphies, séparation ou pas des enclitiques, etc.), son découpage par lexème, un mot ou un signe de ponctuation par ligne. La tokenisation est optionnelle et peut être incluse ou pas dans les outils.
 - La lemmatisation à proprement parler consiste en l’étiquetage morphosyntaxique des formes (_POS-tagging_ = _part-of-speech tagging_), soit l’attribution d’un POS à chaque token (substantif, adjectif, préposition, conjonction, ponctuation, etc., associés ou pas au mode, au cas, au nombre). Les jeux d’étiquettes varient d’un outil à l’autre, 9 étiquettes pour le latin médiéval dans OMNIA, 91 étiquettes pour le latin classique dans Collatinus, par exemple. L’attribution du lemme à chaque forme intervient le plus souvent après l’attribution du POS.
 - La recomposition des fichiers, avec les tokens, les lemmes et les métadonnées.
 

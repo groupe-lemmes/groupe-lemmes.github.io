@@ -34,7 +34,8 @@ Page web: [TreeTagger](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
 
 Collatinus est à la fois un lemmatiseur et un analyseur morphologique de textes latins : il est capable, si on lui donne une forme déclinée ou conjuguée, de trouver quel mot il faudra chercher dans le dictionnaire pour avoir sa traduction dans une autre langue, ses différents sens, et toutes les autres données que fournit habituellement un dictionnaire.
 
-En pratique, il est utile surtout au professeur de latin, qui peut ainsi très rapidement, à partir d’un texte hors-manuel, distribuer à ses élèves un texte inédit avec son aide lexicale. Les élèves s’en servent souvent pour lire plus facilement le latin lorsque leurs connaissances lexicales et morphologiques sont encore insuffisantes.
+Bien que conçu initialement pour les professeurs de Latin, Collatinus s'est étoffé au fil des ans de plusieurs outils qui peuvent intéresser les médiévistes. En particulier, il permet de consulter différents dictionnaires, dont certains consacrés au Latin médiéval, en mode image pour certains et en plein texte pour d'autres (Du Cange et Köbler). Les différents dictionnaires ne donnant pas nécessairement les mêmes informations, il peut être pratique de passer de l'un à l'autre en un clic. D'autre part, le TextiColor peut s'avérer être un outil pratique pour repérer les coquilles dans l'OCR d'un texte latin. La scansion et l'accentuation sont aussi possibles avec Collatinus et peuvent être appliquées par exemple à l'étude de la poésie métrique ou rythmique. L'usage du cursus dans la prose peut aussi apporter des éléments de datation. On trouvera plus de détails ici: [Lemmatiser-avec-Collatinus3 ](/assets/doc/Lemmatiser_avec_Collatinus3.pdf)
+
 
 Page web: [Collatinus](https://outils.biblissima.fr/fr/collatinus/){:target="_blank"}
 
