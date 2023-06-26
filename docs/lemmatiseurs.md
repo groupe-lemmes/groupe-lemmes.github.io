@@ -143,9 +143,9 @@ Le Classical Language Toolkit (CLTK) est une bibliothèque Python permettant le 
 
 Page web: [CLTK](http://cltk.org/){:target="_blank"}
 
-## Les jeux de paramètres
+## Les jeux de données et les jeux de paramètres/modèles
 
-Jeux de paramètres et modèles pour les langues médiévales, principalement pour le latin et l’ancien français:
+Les jeux de données pour les langues médiévales, principalement pour le latin et l’ancien français, sont utilisés pour créer les jeux de paramètres et les modèles employés par les outils. Nous les présentons ensemble, étant donné leur interdépendance.
 
 ### OMNIA
 {: .mb-3 }
@@ -162,6 +162,20 @@ Page web: [OMNIA](https://glossaria.eu/lemmatisation/#page-content){:target="_bl
 {: .mb-3 }
 
 (latin; Pie, via le modèle Deucalion latin + Collatinus) [https://www.lasla.uliege.be/cms/c_8570393/fr/lasla-logiciels](https://www.lasla.uliege.be/cms/c_8570393/fr/lasla-logiciels){:target="_blank"}
+
+---
+
+### LiLa Lemma Bank 
+{: .mb-3 }
+
+(latin; pas de logiciel spécifique: [https://lila-erc.eu/lodview/data/id/lemma/LemmaBank](https://lila-erc.eu/lodview/data/id/lemma/LemmaBank){:target="_blank"})
+
+---
+
+### Perseus TreeBank 
+{: .mb-3 }
+
+(latin; [https://github.com/PerseusDL/treebank_data/tree/master/v2.0/Latin](https://github.com/PerseusDL/treebank_data/tree/master/v2.0/Latin){:target="_blank"})
 
 ---
 
@@ -215,13 +229,6 @@ Page web: [PALM](http://palm.huma-num.fr/PALM/){:target="_blank"}
 
 ---
 
-### LiLa Lemma Bank 
-{: .mb-3 }
-
-(latin; pas de logiciel spécifique: [https://lila-erc.eu/lodview/data/id/lemma/LemmaBank](https://lila-erc.eu/lodview/data/id/lemma/LemmaBank){:target="_blank"})
-
----
-
 ### Old French lemmatization 
 {: .mb-3 }
 
@@ -236,17 +243,20 @@ Page web: [PALM](http://palm.huma-num.fr/PALM/){:target="_blank"}
 
 ---
 
-### Perseus TreeBank 
-{: .mb-3 }
-
-(latin; [https://github.com/PerseusDL/treebank_data/tree/master/v2.0/Latin](https://github.com/PerseusDL/treebank_data/tree/master/v2.0/Latin){:target="_blank"})
-
----
-
 ### CLTK
 {: .mb-3 }
 
-(plusieurs langues anciennes: latin; vieil anglais; moyen anglais; moyen haut allemand; etc.: [https://legacy.cltk.org/en/latest/index.html](https://legacy.cltk.org/en/latest/index.html){:target="_blank"}) 
+(plusieurs langues anciennes: latin; vieil anglais; moyen anglais; moyen haut allemand; etc.: [https://legacy.cltk.org/en/latest/index.html](https://legacy.cltk.org/en/latest/index.html){:target="_blank"})
+
+---
+
+### PaPie - modèle
+{: .mb-3 }
+
+- [Latin LASLA Models](https://github.com/PonteIneptique/latin-lasla-models/releases/latest){:target="_blank"}
+  - voir [https://www.theses.fr/2022LYSE3007](https://www.theses.fr/s226893){:target="_blank"}
+- [Modèle OF3C pour l'ancien français](https://github.com/chartes/deucalion-model-af/releases/latest){:target="_blank"}
+  - voir [https://hal.science/halshs-03353125](https://hal.science/halshs-03353125){:target="_blank"}
 
 ## Les outils de post-traitement en lemmatisation
 
@@ -256,6 +266,8 @@ Page web: [PALM](http://palm.huma-num.fr/PALM/){:target="_blank"}
 Pyrrha est une simple Python Flask WebApp pour accélérer la post-correction de corpus lemmatisés et morpho-syntaxiquement tagués.
 
 Page web: [Pyrrha](https://dh.chartes.psl.eu/pyrrha){:target="_blank"}
+
+Lien supplémentaire: [Building infrastructure for annotating medieval, classical and pre-orthographic languages: the Pyrrha ecosystem](https://hal.science/hal-03606756v1){:target="_blank"}
 
 [Télécharger la présentation Pyrrha](/assets/doc/Pyrrha.zip){: .btn .btn-green .fw-300 .text-grey-lt-000 }
 
