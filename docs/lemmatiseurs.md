@@ -56,6 +56,10 @@ Page web: [spaCy](https://spacy.io/usage/spacy-101){:target="_blank"}
 Pie est un lemmatiseur indépendant de la langue implémenté en python et conçu pour les "langues riches en variations", dont le latin. C'est un outil d'apprentissage profond qui peut être entraîné et réentraîné avec des données au format TSV. En 2019, il semble être l'un des lemmatiseurs de pointe en termes de résultats. Il peut être entraîné conjointement sur des tâches de morphologie, de POS et de lemmatisation. 
 
 Page web: [Pie (et Deucalion/Flask Pie)](https://wiki.digitalclassicist.org/Deucalion_and_Pie_lemmatizers){:target="_blank"}
+Additional links:
+- [Pie Extended](https://github.com/hipster-philology/nlp-pie-taggers){:target="_blank"}
+- [PIE: A Framework for Joint Learning of Sequence Labeling Tasks](https://github.com/emanjavacas/pie){:target="_blank"}
+- [Deucalion](https://dh.chartes.psl.eu/deucalion/){:target="_blank"}
 
 ---
 
@@ -253,16 +257,4 @@ Pyrrha est une simple Python Flask WebApp pour accélérer la post-correction de
 Page web: [Pyrrha](https://dh.chartes.psl.eu/pyrrha){:target="_blank"}
 
 [Télécharger la présentation Pyrrha](/assets/doc/Pyrrha.zip){: .btn .btn-green .fw-300 .text-grey-lt-000 }
-
-
-
-
-
-
-
-
-
-
-
-
 
