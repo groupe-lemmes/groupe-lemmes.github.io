@@ -98,7 +98,7 @@ pour l'enregistrer sur une machine. Voici une liste simplifiée des formats
 de texte :
     - Le texte pur, dont l'[encodage](#encodage) peut varier. De plus en plus,
   les textes sont encodés en UTF-8 ;
-    - Le texte balisé (html, LaTeX, markdown) permet de changer de la couleur,
+    - Le texte balisé (html, LaTeX, markdown, XML/TEI) permet de changer de la couleur,
   la disposition, la taille, la police, la graisse, le style, etc., à
   n'importe quel endroit du texte. Le plus souvent, ces indications non
   textuelles sont insérées dans des balises ouvrantes et fermantes. Dans le
@@ -151,14 +151,11 @@ y a plusieurs solutions, comme pour le mot _avions_, donné en exemple à l'arti
 trouver **tous** les lemmes pouvant produire une forme donnée, soit trouver **le** lemme
 que l'auteur du texte a utilisé pour produire cette forme.    
 La lemmatisation d'un texte se fait en plusieurs étapes :
-    1. La [tokenisation](#tokenisation) consiste à transformer le texte en une liste de formes. Cette opération
-    n'est pas très difficile, mais l'encodage en UTF-8 réserve parfois des surprises, en
-    utilisants deux caractères pour n'en afficher qu'un.
+    1. La [tokenisation](#tokenisation) consiste à transformer le texte en une liste de formes.
     1. La recherche des suffixes étrangers au lemme (en latin, _-que, -ue, -ne_) ;
     1. La prise en compte de la graphie [ramiste](#ramus), des [variantes graphiques](#vargraph) 
     1. La lemmatisation proprement dite : quels lemmes peuvent donner cette forme ?
-    1. En cas de réponse multiple, le classement des résultats, en commençant par le 
-    plus probable.
+    1. En cas de réponse multiple, le classement des résultats, en commençant par le plus probable.
 
 * <a name="lemme">**lemme**</a> --
 Un **lemme** est l'unité constituante d'un lexique. En latin, un lemme peut
@@ -262,9 +259,7 @@ humain qui procède à un premire étiquetage, et l'ordinateur prend la suite.
 
 * <a name="tokenisation">**tokenisation, token**</a> --
 La tokenisation consiste à transformer le texte en une liste de formes, ou
-_tokens_. Cette opération n'est pas très difficile, mais l'encodage en
-UTF-8 réserve parfois des surprises, en utilisant deux caractères pour
-n'en afficher qu'un.
+_tokens_.
 
 * <a name="trait">**trait morphologique**</a> --
 Quelle forme choisir lorsqu'on désire employer un lemme dans un énoncé ?
