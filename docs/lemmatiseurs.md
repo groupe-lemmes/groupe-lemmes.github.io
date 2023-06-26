@@ -57,7 +57,7 @@ Pie est un lemmatiseur indépendant de la langue implémenté en python et conç
 
 Page web: [Pie (et Deucalion/Flask Pie)](https://wiki.digitalclassicist.org/Deucalion_and_Pie_lemmatizers){:target="_blank"}
 
-Additional links:
+Liens supplémentaires:
 - [Pie Extended](https://github.com/hipster-philology/nlp-pie-taggers){:target="_blank"}
 - [PIE: A Framework for Joint Learning of Sequence Labeling Tasks](https://github.com/emanjavacas/pie){:target="_blank"}
 - [Deucalion](https://dh.chartes.psl.eu/deucalion/){:target="_blank"}
