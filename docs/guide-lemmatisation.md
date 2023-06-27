@@ -83,7 +83,7 @@ Voici l’exemple du traitement d’une inscription provenant de l’abbaye de S
 
 ![](/assets/images/figures/figure4.png){:width="20%" .d-block .mx-auto}
 
-- Lemmatisation (_POS-tagging_), avec l’attribution dun POS (part of speech) à chaque token, et reconstitution du fichier, avec l’ajout des métadonnées (ici, seulement le nom du fichier). Le fichier contient ainsi, pour chaque mot/token (première colonne), le POS (deuxième colonne) et le lemme (troisième colonne).
+- Lemmatisation (_POS-tagging_), avec l’attribution d'un POS (part of speech) à chaque token, et reconstitution du fichier, avec l’ajout des métadonnées (ici, seulement le nom du fichier). Le fichier contient ainsi, pour chaque mot/token (première colonne), le POS (deuxième colonne) et le lemme (troisième colonne).
 
 ![](/assets/images/figures/figure5.png){:width="70%" .d-block .mx-auto}
 
